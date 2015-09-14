@@ -7,3 +7,6 @@ http://andyfelong.com/2015/02/mongodb-on-the-raspberry-pi-2/
 
 Please have a look at my rpi-nightscout repo to get a description how this
 container can be used.
+
+The ready-to-go docker image can be accessed from my docker hub repository:
+https://hub.docker.com/r/dhermanns/rpi-mongo/
