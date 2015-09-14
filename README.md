@@ -10,3 +10,12 @@ container can be used.
 
 The ready-to-go docker image can be accessed from my docker hub repository:
 https://hub.docker.com/r/dhermanns/rpi-mongo/
+
+# LICENSE
+Most MongoDB source files (src/mongo folder and below) are made available under the terms of the
+GNU Affero General Public License (AGPL).  See individual files for
+details.
+
+As an exception, the files in the client/, debian/, rpm/,
+utils/mongoutils, and all subdirectories thereof are made available under
+the terms of the Apache License, version 2.0.
